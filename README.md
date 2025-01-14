@@ -24,8 +24,8 @@ Ensure the following tools and libraries are available:
 - **Matplotlib for visual validation**
 
 ### **Setup Instructions**  
-1. **Clone the Repository**:  
-2. **Install Dependencies**:  
+1. **Clone the Repository**  
+2. **Install Dependencies**  
 3. **Configure Tesseract**: Install Tesseract OCR and ensure its path is correctly set in the code.  
 4. **Run the System**: Execute the script in your Python environment to process videos and extract ID card information.
 
@@ -33,5 +33,5 @@ Ensure the following tools and libraries are available:
 - **OpenCV**: Expertise in video frame processing.  
 - **Computer Vision**: Application of vision techniques for text recognition and validation.  
 
-### **Results**  
+### **Final Results**  
 The system automates ID card data extraction with high accuracy and efficiency. Its integration with Tesseract OCR and OpenCV ensures precise text recognition, while Matplotlib aids in visual validation, making it a reliable tool for identity verification and data entry tasks.  
