@@ -33,7 +33,7 @@ Ensure the following tools and libraries are available:
 - **OpenCV**: Expertise in video frame processing.  
 - **Computer Vision**: Application of vision techniques for text recognition and validation.  
 
-### **Final Results**  
+### **Project Outcome**  
 The system automates ID card data extraction with high accuracy and efficiency. Its integration with Tesseract OCR and OpenCV ensures precise text recognition, while Matplotlib aids in visual validation, making it a reliable tool for identity verification and data entry tasks. 
 
 
